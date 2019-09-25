@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "5968dd23fc13ae04d9000001"
+  },
+  "empName": "Axle",
+  "empWeight": "84"
+}, 
+{
+  "_id": {
+    "$oid": "5968dd23fc13ae04d9000002"
+  },
+  "empName": "Jane",
+  "empWeight": "65"
+}, 
+{
+  "_id": {
+    "$oid": "5968dd23fc13ae04d9000002"
+  },
+  "empName": "Jaquie",
+  "empWeight": "71"
+},
+{
+  "_id": {
+    "$oid": "5968dd23fc13ae04d9000002"
+  },
+  "empName": "Neil",
+  "empWeight": "97"
+},
+{
+  "_id": {
+    "$oid": "5968dd23fc13ae04d9000002"
+  },
+  "empName": "Kathie",
+  "empWeight": "58"
+}, 
+
+{
+  "_id": {
+    "$oid": "5968dd23fc13ae04d9000003"
+  },
+  "empName": "Mary",
+  "empWeight": "73"
+}]
